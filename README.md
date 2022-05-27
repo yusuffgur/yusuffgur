@@ -1,5 +1,7 @@
 ### Hi I'm Yusuf 👋
 
+<div align="center">
+
 💬 You can ask me about Linear Algebra, Remote Sensing, Machine Learning, Deep Learning, and NLP.
 
 🔭 I’m currently working on code generation
@@ -9,9 +11,12 @@
 ⚡ Besides: I also love Backend (.net Core & Laravel), Frontend (Angular & Vue JS) and Mobile (Flutter) Development.
 
 🌱 I’m currently exploring superoities of
+   <ul>
+    <li>Attention Mechanism,</li>
+    <li>Prompt Learning Methods,</li>
+   </ul> 
 
-Attention Mechanism,
-Prompt Learning Methods
+
 
 📫 How to reach me-> official: gur.yusuf@metu.edu.tr, personal: yusuffgur@gmail.com
 
@@ -29,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
