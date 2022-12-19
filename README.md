@@ -4,9 +4,9 @@
 
 💬 You can ask me about Linear Algebra, Remote Sensing, Machine Learning, Deep Learning, and NLP.
 
-🔭 I’m currently working on code generation
+🔭 I’m currently working on Security Requirement Generation
 
-🌱 I’m currently Prompt Learning methods
+🌱 I’m currently studying on Prompt Learning methods
 
 ⚡ Besides: I also love Backend (.net Core & Laravel), Frontend (Angular & Vue JS) and Mobile (Flutter) Development.
 
@@ -14,6 +14,7 @@
    <ul>
     <li>Attention Mechanism,</li>
     <li>Prompt Learning Methods,</li>
+    <li>NLP and Large Language Models</li>
    </ul> 
 
 
