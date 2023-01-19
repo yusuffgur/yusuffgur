@@ -17,7 +17,6 @@
     <li>NLP and Large Language Models</li>
    </ul> 
 
-   <img src="https://komarev.com/ghpvc/?username=yusuffgur&style=flat-square&color=blue" alt=""/>
 📫 How to reach me-> official: gur.yusuf@metu.edu.tr, personal: yusuffgur@gmail.com
    <img src="https://komarev.com/ghpvc/?username=yusuffgur&style=flat-square&color=blue" alt=""/>
 
