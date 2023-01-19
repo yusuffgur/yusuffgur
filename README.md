@@ -18,6 +18,7 @@
    </ul> 
 
 📫 How to reach me-> official: gur.yusuf@metu.edu.tr, personal: yusuffgur@gmail.com
+
    <img src="https://komarev.com/ghpvc/?username=yusuffgur&style=flat-square&color=blue" alt=""/>
 
     
