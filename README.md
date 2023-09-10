@@ -6,9 +6,9 @@
 
 🔭 I’m currently working on Security Requirement Generation
 
-🌱 I’m currently studying on Prompt Learning methods
+🌱 I’m currently studying on Prompt Learning methods, LLM Finetuning and Langchain
 
-⚡ Besides: I also love Backend (.net Core & Laravel), Frontend (Angular & Vue JS) and Mobile (Flutter) Development.
+⚡ Besides: I also love Backend (.net Core & Laravel & Node JS), Frontend (Angular & React & Vue JS) and Mobile (Flutter) Development.
 
 🌱 I’m currently exploring superoities of
    <ul>
